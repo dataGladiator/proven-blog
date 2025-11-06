@@ -2,8 +2,14 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://dataGladiator.github.io/proven-blog"
+baseURL: "https://www.provenaisolutions.com/blog"
 title: proven-blog
+canonifyURLs: true
+relativeURLs: false
+
+module:
+  imports:
+    - path: github.com/chrede88/qubt/v2
 
 ############################
 ## MISC
@@ -13,3 +19,16 @@ enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
 enableRobotsTXT: true
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: Blog
+      url: /blog/
+      weight: 20
+    - name: CellPhone
+      url: /about/
+      weight: 30
+
