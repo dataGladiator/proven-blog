@@ -5,7 +5,6 @@
 baseURL: "https://www.provenaisolutions.com/blog"
 title: proven-blog
 canonifyURLs: true
-relativeURLs: false
 
 module:
   imports:
