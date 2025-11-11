@@ -52,7 +52,8 @@ Clarity here drives architecture.
 ---
 
 ### 📂 3. What data will the AI system receive?
-This is where most projects fail.
+**A common early-stage trap is underestimating data complexity.**
+ Here’s how to avoid it:
 
 - Is the data structured or unstructured?  
 - How consistent is it across departments or sources?  
@@ -90,14 +91,26 @@ Define your thresholds now.
 ---
 
 ### 🧭 6. What does “MVP” mean to you?
-Most organizations use the term loosely.
+- #### ✅ **A. Showcase / Functional Demo MVP**
 
-Do you want:
+  A near-production demonstration designed for:
 
-- ✅ a **Showcase / Functional Demo MVP**, or  
-- ✅ a **Limited-Use (Internal Pilot) MVP**?
+  - stakeholder presentations
+  - investor conversations
+  - early workflow exploration
 
-These are different in scope, cost, and reliability.
+  It’s functional and impressive, but intentionally limited. Ideal when you need something **demonstration-ready** with solid underlying tech, but not yet operational.
+- #### ✅ **B. Limited-Use MVP (Internal Pilot)**
+
+  A more robust version intended for:
+
+  - internal testing
+  - controlled pilot deployments
+  - early operational workflows
+
+  It handles real data with basic reliability, but still isn’t production-grade.
+
+These two MVP paths differ in **scope, cost, reliability, and integration depth**. Clarifying which one you need upfront ensures accurate scoping, predictable timelines, and a smooth path toward production.
 
 ---
 
@@ -170,7 +183,7 @@ Scaling requires architectural planning early.
 ---
 
 ### 🔄 12. How often will the model need to be updated or retrained?
-AI systems degrade over time.  
+AI systems requirements often evolve over time.  
 You need a plan for:
 
 - retraining  
@@ -224,4 +237,11 @@ Once you're confident in your answers, you're ready to:
 - build a roadmap with your chosen developer
 
 This checklist ensures your AI project starts on strong foundations and avoids costly surprises.
+
+---
+
+
+
+**Disclaimer:**
+The information provided herein is illustrative and does not create any contractual obligations or guarantees. Specific capabilities, timelines, and deliverables are determined only through a formal engagement, including detailed scoping, data review, and written agreements.
 
