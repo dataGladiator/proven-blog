@@ -1,5 +1,5 @@
 ---
-title: "Your Production AI App Checklist"
+title: "Your Roadmap to AI Project Success"
 subtitle: "A clear, practical guide for leaders planning their first (or next) AI initiative"
 date: 2025-11-11
 
