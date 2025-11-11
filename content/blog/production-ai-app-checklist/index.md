@@ -183,7 +183,7 @@ Scaling requires architectural planning early.
 ---
 
 ### 🔄 12. How often will the model need to be updated or retrained?
-AI systems requirements often evolve over time.  
+AI system requirements often evolve over time.  
 You need a plan for:
 
 - retraining  
