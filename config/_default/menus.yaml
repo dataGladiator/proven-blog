@@ -4,11 +4,12 @@
 
 main:
 - name: Home
-  url: /
+  url: "https://www.provenaisolutions.com"
   weight: 10
 - name: Blog
-  url: /blog/
+  url: "https://www.provenaisolutions.com/blog/blog"
   weight: 20
-- name: About
-  url: /about/
+- name: Contact
+  url: "https://www.provenaisolutions.com/#contact"
   weight: 30
+

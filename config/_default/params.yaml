@@ -68,3 +68,10 @@ title: proven-blog
 description: "Site build with Qubt & Hugo"
 images:
   - thumbnail.png
+
+navbar:
+  showLogo: true        # if the theme uses a toggle; leave if it doesn't exist
+logo:
+  src: "logo.png"   # path *relative to* assets/
+  alt: "Proven AI & Data Solutions"
+
