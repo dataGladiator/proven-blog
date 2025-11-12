@@ -245,4 +245,4 @@ AI is **engineering**, with all the rigor, testing, validation, and product desi
 Get these pieces right, and the AI becomes a multiplier.  
 Get them wrong, and the AI becomes an expensive (and silent) liability.
 
-{{< figArray subfolder="net-image" figCaption="Empowering your business t        hrough excellence in data." numCols=1 >}}
+{{< figArray subfolder="net-image" figCaption="Empowering your business through excellence in data." numCols=1 >}}
