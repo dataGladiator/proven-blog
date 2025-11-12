@@ -5,7 +5,7 @@
 author:
   name: dataGladiator
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Empowering your business through excellence in data."
   icon: ":wave:"
 
 ############################
@@ -65,7 +65,7 @@ links:
 ###############################
 
 title: proven-blog
-description: "Site build with Qubt & Hugo"
+description: "Empowering your business through excellence in data."
 images:
   - thumbnail.png
 
