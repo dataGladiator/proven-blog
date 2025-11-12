@@ -118,6 +118,8 @@ Ideal for:
 
 ---
 
+{{< figArray subfolder="coffee-image" figCaption="Empowering your business t    hrough excellence in data." numCols=1 >}}
+
 ### ✅ 4. Move Into Production (Stage 1)
 
 Production Stage 1 is the first true production environment — the point where the system becomes part of day-to-day operations.
@@ -215,3 +217,5 @@ These resources will give you the deepest possible insight into building product
 
 **Disclaimer:**
 The information provided herein is illustrative and does not create any contractual obligations or guarantees. Specific capabilities, timelines, and deliverables are determined only through a formal engagement, including detailed scoping, data review, and written agreements.
+
+{{< figArray subfolder="net-image" figCaption="Empowering your business t        hrough excellence in data." numCols=1 >}}

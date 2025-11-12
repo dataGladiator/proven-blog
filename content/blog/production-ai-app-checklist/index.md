@@ -114,6 +114,8 @@ These two MVP paths differ in **scope, cost, reliability, and integration depth*
 
 ---
 
+{{< figArray subfolder="coffee-image" figCaption="Empowering your business t    hrough excellence in data." numCols=1 >}}
+
 ### 🔗 7. Does the system need to integrate with other tools or platforms?
 Integrations often exceed the cost of the AI model itself.
 
@@ -245,3 +247,5 @@ This checklist ensures your AI project starts on strong foundations and avoids c
 **Disclaimer:**
 The information provided herein is illustrative and does not create any contractual obligations or guarantees. Specific capabilities, timelines, and deliverables are determined only through a formal engagement, including detailed scoping, data review, and written agreements.
 
+
+{{< figArray subfolder="net-image" figCaption="Empowering your business t    hrough excellence in data." numCols=1 >}}

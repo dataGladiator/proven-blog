@@ -111,6 +111,9 @@ This is why structured outputs matter:
 
 ---
 
+{{< figArray subfolder="coffee-image" figCaption="Empowering your business through excellence in data." numCols=1 >}}
+
+
 ## 4. Model Integration Is the Easy Part. Orchestration Is the Hard Part.
 
 Most developers underestimate:
@@ -242,3 +245,4 @@ AI is **engineering**, with all the rigor, testing, validation, and product desi
 Get these pieces right, and the AI becomes a multiplier.  
 Get them wrong, and the AI becomes an expensive (and silent) liability.
 
+{{< figArray subfolder="net-image" figCaption="Empowering your business t        hrough excellence in data." numCols=1 >}}
