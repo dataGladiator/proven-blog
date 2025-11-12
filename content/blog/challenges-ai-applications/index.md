@@ -10,10 +10,11 @@ cardimage: photo4_card.jpeg
 authors:
   - Kevin Raines: kevin.png
 
+
 # post
-featureimage: ai_challenges_feature.jpeg
-caption: "Behind every AI app is a long chain of data, infrastructure, and human-in-the-loop design decisions."
-toc: true
+featureimage: proven-banner.jpeg
+caption: "Empowering your business through excellence in data."
+toc: false
 ---
 
 # Introduction
