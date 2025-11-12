@@ -5,7 +5,7 @@ date: 2025-11-11
 
 
 # card
-summary: "AI demos are easy. Production AI is hard. Here are the real technical, product, and operational challenges that teams face when turning AI prototypes into durable, scalable applications."
+summary: "Before you hire any team, vendor, or consultant, you should be able to answer these foundational questions. This checklist helps you clarify your internal goals, avoid costly missteps, and dramatically increase the chances that your AI project succeeds."
 cardimage: serene-mountains.jpg
 authors:
   - Kevin Raines: kevin.png
