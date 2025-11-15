@@ -5,7 +5,7 @@ date: 2025-11-15
 
 
 # card
-summary: "we created a **repeatable framework** that guides organizations from early exploration to operational AI with far less risk, ambiguity, or wasted effort."
+summary: "Inside this blog post, you'll find the  **repeatable framework** we created to help you transform great ideas into to operational AI with far less risk, ambiguity, or wasted effort."
 cardimage: proven-outline-card.jpeg
 authors:
   - Kevin Raines: kevin.png
