@@ -6,7 +6,7 @@ date: 2025-11-25
 
 # card
 summary: "Traditional software is (in principle) deterministic: the same input yields the same output, modulo bugs. Modern AI models are **stochastic approximators** of complex functions. Even when you fix temperature and seed, their behavior is best understood statistically, not as a fixed mapping.."
-cardimage: infinity-logo-3.png
+cardimage: precision-ai-systems.jpeg
 authors:
   - Kevin Raines: kevin.png
 
