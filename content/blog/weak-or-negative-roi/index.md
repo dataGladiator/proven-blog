@@ -60,7 +60,7 @@ it’s lost because the system never meaningfully enters production.
 - test installation, access, and permissions in real environments  
 - plan for ongoing updates and iteration post-delivery, especially for experimental systems
 
-🔗 *Related:* [**Our Proven Enterprise AI Framework**](https://provenaisolutions.com/blog/blog/ai-project-success-roadmap/)
+🔗 *Related:* [**Our Proven Enterprise AI Framework**](https://www.provenaisolutions.com/blog/blog/ai-project-outline/)
 
 ---
 
@@ -172,7 +172,7 @@ Severe failures usually result from **compounding risks**, not a single mistake.
 - govern integrations deliberately  
 - align expectations with demonstrated capability  
 
-🔗 *Related:* **The Hidden Challenges of Building Real-World AI Applications**
+🔗 *Related:* [**Your Roadmap to AI Project Success**](https://www.provenaisolutions.com/blog/blog/ai-project-success-roadmap/)
 
 ---
 
