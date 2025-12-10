@@ -6,7 +6,7 @@ date: 2025-11-11
 
 # card
 summary: "Successful AI outcomes emerge from a combination of leadership, resources, talent, and vision — and the glue that holds these together is the roadmap: a structured, predictable, low-risk process that transforms ambiguity into clarity and ideas into production-grade software."
-cardimage: infinity-logo-3.jpeg
+cardimage: blog-post-default.jpeg 
 authors:
   - Kevin Raines: kevin.png
 

@@ -6,7 +6,7 @@ date: 2025-11-11
 
 # card
 summary: "Before you hire any team, vendor, or consultant, you should be able to answer these foundational questions. This checklist helps you clarify your internal goals, avoid costly missteps, and dramatically increase the chances that your AI project succeeds."
-cardimage: serene-mountains.jpg
+cardimage: blog-post-default.jpeg 
 authors:
   - Kevin Raines: kevin.png
 

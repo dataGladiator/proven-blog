@@ -6,7 +6,7 @@ date: 2025-11-06
 
 # card
 summary: "AI demos are easy. Production AI is hard. Here are the real technical, product, and operational challenges that teams face when turning AI prototypes into durable, scalable applications."
-cardimage: photo4_card.jpeg
+cardimage: blog-post-default.jpeg
 authors:
   - Kevin Raines: kevin.png
 

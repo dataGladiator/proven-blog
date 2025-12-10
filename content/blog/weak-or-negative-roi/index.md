@@ -6,7 +6,7 @@ date: 2025-12-01
 
 # card
 summary: "This post outlines **seven common, avoidable ways** that promising AI initiatives erode ROI *after* delivery. These patterns cut across industries and maturity levels. They are not edge cases, and they rarely involve dramatic system failures."
-cardimage: weak-or-negative-roi.jpeg
+cardimage: blog-post-default.jpeg
 authors:
   - Kevin Raines: kevin.png
 

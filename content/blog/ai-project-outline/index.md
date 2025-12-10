@@ -6,7 +6,7 @@ date: 2025-11-15
 
 # card
 summary: "Inside this blog post, you'll find the  **repeatable framework** we created to help you transform great ideas into to operational AI with far less risk, ambiguity, or wasted effort."
-cardimage: proven-outline-card.jpeg
+cardimage: blog-post-default.jpeg
 authors:
   - Kevin Raines: kevin.png
 
